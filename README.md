@@ -97,8 +97,3 @@ Some sample students and campus locations are loaded when the program starts so 
 
 - Students: S001, S002, S004, S005, S008
 - Locations: Main Gate, Admin Building, Library, Lecture Hall A, Computer Lab, Cafeteria, Sports Ground
-
-## Links
-
-- GitHub Repository: [add link]
-- Demonstration Video: [add link]
